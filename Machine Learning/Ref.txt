@@ -1,0 +1,3 @@
+http://openclassroom.stanford.edu/MainFolder/DocumentPage.php?course=MachineLearning&doc=exercises/ex4/ex4.html
+https://github.com/quinnliu/machineLearning/blob/master/supervisedLearning/logisticRegression/costFunction.m
+https://share.coursera.org/wiki/index.php/ML:Programming_Exercise_4:Neural_Networks_Learning
